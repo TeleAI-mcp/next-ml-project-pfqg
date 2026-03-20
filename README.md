@@ -1,2 +1,3 @@
-# next-ml-project-pfqg
-Automated issue comment bot repository
+# Next Ml Project Pfqg
+
+Automated issue comment bot repository.
